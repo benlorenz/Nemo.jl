@@ -16,6 +16,9 @@ using InteractiveUtils
 using Libdl
 
 using Random
+using Random: SamplerTrivial
+
+using RandomExtensions: RandomExtensions, make, Make2
 
 using LoadFlint
 
