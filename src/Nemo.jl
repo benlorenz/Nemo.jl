@@ -391,8 +391,6 @@ include("embedding/embedding.jl")
 
 include("Rings.jl")
 
-include("common.jl")
-
 ################################################################################
 #
 #  Thread local storages
