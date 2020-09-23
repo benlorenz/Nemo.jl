@@ -18,7 +18,7 @@ using Libdl
 using Random
 using Random: SamplerTrivial
 
-using RandomExtensions: RandomExtensions, make, Make2
+using RandomExtensions: RandomExtensions, make, Make2, Make3
 
 using LoadFlint
 
